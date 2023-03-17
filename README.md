@@ -20,7 +20,7 @@
 
 ## Demo
 
-![](https://imgur.com/a/1CbzNyd)
+![](https://imgur.com/a/1CbzNyd.png)
 
 ![](https://imgur.com/a/zaKZ3X0)
 
