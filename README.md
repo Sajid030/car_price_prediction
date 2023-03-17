@@ -20,9 +20,9 @@
 
 ## Demo
 
-![App Screenshot](https://imgur.com/a/1CbzNyd)
+![](https://imgur.com/a/1CbzNyd)
 
-![App Screenshot](https://imgur.com/a/zaKZ3X0)
+![](https://imgur.com/a/zaKZ3X0)
 
 
 
