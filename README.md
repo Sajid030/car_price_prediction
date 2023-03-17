@@ -6,13 +6,13 @@
 ## Table of Contents
 
  - [Demo](#demo)
- - [Overview](#Overview)
- - [Motivation](#Motivation)
- - [Installation](#Installation)
- - [Deployement on Heroku]()
- - [Directory Tree]()
- - [Bug / Feature Request]()
- - [Future scope of project]()
+ - [Overview](#overview)
+ - [Motivation](#motivation)
+ - [Installation](#installation)
+ - [Deployement on Heroku](#deployement-on-heroku)
+ - [Directory Tree](#directory-tree)
+ - [Bug / Feature Request](#bug---feature-request)
+ - [Future scope of project](#future-scope)
 
 
 
@@ -20,9 +20,9 @@
 
 ## Demo
 
-![](https://imgur.com/a/1CbzNyd.png)
+![A](https://i.imgur.com/a/1CbzNyd.png)
 
-![](https://imgur.com/a/zaKZ3X0)
+![b](https://imgur.com/a/zaKZ3X0)
 
 
 
