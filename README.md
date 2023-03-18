@@ -19,12 +19,11 @@
 
 
 ## Demo
+Link:
 
-![A](https://i.imgur.com/a/1CbzNyd.png)
+![image](https://user-images.githubusercontent.com/126476034/226076070-286d9121-c3cf-4fab-b5fa-587b0613b6f0.png)
 
-![b](https://imgur.com/a/ApG4Xhx)
-
-
+![image](https://user-images.githubusercontent.com/126476034/226075998-d89e7197-38f7-4f3c-8e49-6db5d94bc1d9.png)
 
 ## Overview
 
