@@ -6,25 +6,24 @@
 ## Table of Contents
 
  - [Demo](#demo)
- - [Overview](#Overview)
- - [Motivation](#Motivation)
- - [Installation](#Installation)
- - [Deployement on Heroku]()
- - [Directory Tree]()
- - [Bug / Feature Request]()
- - [Future scope of project]()
+ - [Overview](#overview)
+ - [Motivation](#motivation)
+ - [Installation](#installation)
+ - [Deployement on Heroku](#deployement-on-heroku)
+ - [Directory Tree](#directory-tree)
+ - [Bug / Feature Request](#bug--feature-request)
+ - [Future scope of project](#future-scope)
 
 
 
 
 
 ## Demo
+Link:
 
-![App Screenshot](https://imgur.com/a/1CbzNyd)
+![image](https://user-images.githubusercontent.com/126476034/226076070-286d9121-c3cf-4fab-b5fa-587b0613b6f0.png)
 
-![App Screenshot](https://imgur.com/a/zaKZ3X0)
-
-
+![image](https://user-images.githubusercontent.com/126476034/226075998-d89e7197-38f7-4f3c-8e49-6db5d94bc1d9.png)
 
 ## Overview
 
@@ -65,3 +64,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Sajid030/car_price_prediction/issues) here by including your search query and the expected result
+
+## Future Scope
+
+- Use multiple Algorithms
+- Optimize Flask app.py
+- Front-End 
