@@ -5,16 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Car Prediction</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/css/style.css">
+        <!-- <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script> -->
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="static/css/style.css">
 </head>
 <body>
-    <h1>Car Price Predictor</h1>
-    <div>
+    <div class="container">
+        <h2 class='container-heading'><span class="heading_font">Car Price Predictor</span></h2>
+        <div class='description'>
+            <p>A Machine Learning Web App, Built with Flask, Deployed using Heroku.</p>
+        </div>
+    </div>
+    <div class="form_area">
         <form action="{{ url_for('predict')}}" method="post">
-            <p>Fuel Type: 
-                <select name="fuel" id="fuel_type" required="required">
+            <p class="form-input_heading">Fuel Type: 
+                <select name="fuel" id="fuel_type" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Petrol">Petrol</option>
                     <option value="Diesel">Diesel</option>
@@ -27,21 +32,21 @@
                     <option value="Petrol + LPG">Petrol + LPG</option>
                 </select>
             </p>
-            <p>
+            <p class="form-input_heading">
                 Year:
-                <input type="number" name="Year" id="year" required="required">
+                <input type="number" name="Year" id="year" required="required" class="form-input">
             </p>
-            <p>
+            <p class="form-input_heading">
                 Transmission:
-                <select name="Transmission" id="transmission" required="required">
+                <select name="Transmission" id="transmission" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Manual">Manual</option>
                     <option value="Automatic">Automatic</option>
                 </select>
             </p>
-            <p>
+            <p class="form-input_heading">
                 Owner:
-                <select name="Owner" id="owner" required="required">
+                <select name="Owner" id="owner" required="required" class="form-input">
                     <option value=""></option>
                     <option value="0">UnRegistered Car</option>
                     <option value="1">First</option>
@@ -51,29 +56,28 @@
                     <option value="5">4 or more</option>
                 </select>
             </p>
-            <p>
+            <p class="form-input_heading">
                 Seller Type:
-                <select name="Seller type" id="seller_type" required="required">
+                <select name="Seller type" id="seller_type" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Corporate">Corporate</option>
                     <option value="Individual">Individual</option>
                     <option value="Commercial Registration">Commercial Registration</option>
                 </select>
             </p>
-            <p>
-                Engine(in cc): <input type="number" name="Engine" id="engine" required="required">
+            <p class="form-input_heading">
+                Engine: <input type="number" name="Engine" id="engine" required="required" class="form-input"  placeholder="eg: 1890(in cc)">
+            </p>
+            <p class="form-input_heading">
+                Max Power: <input type="number" name="Max Power" id="Max Power" required="required" class="form-input"  placeholder="eg: 90(in bhp)">
+            </p>
+            <p class="form-input_heading">
+                Fuel Tank Capacity: <input type="number" name="Fuel Tank Capacity" id="fuel_tank_capacity" required="required" class="form-input"  placeholder="eg: 44">
             </p>
             <p>
-                Max Power(in bhp): <input type="number" name="Max Power" id="Max Power" required="required">
-            </p>
-            <p>
-                Fuel Tank Capacity: <input type="number" name="Fuel Tank Capacity" id="fuel_tank_capacity" required="required">
-            </p>
-            <p>
-                <input type="submit" value="Predict">
+                <input type="submit" value="Predict" class="predict-button">
             </p>
         </form>
-        <h3>{{ prediction_text }}<h3>
     </div>
 </body>
 </html>
