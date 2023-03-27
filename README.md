@@ -21,9 +21,9 @@
 ## Demo
 Link:
 
-![video](https://i.imgur.com/lXTtEBm.mp4)
-
-![video](https://camo.githubusercontent.com/f0d6d922fd37e0a1247e6deaced1f35e8c32629330cff0c8c655808ab5623090/68747470733a2f2f692e696d6775722e636f6d2f6c58547445426d2e6d7034)
+![video](https://imgur.com/zBCa20P.gif)
+![video](https://i.imgur.com/zBCa20P.gif)
+![video](https://camo.githubusercontent.com/53dcd7557cf69674404d19f6db38f6dae77479a27de745cd3dbde3e305b07b80/68747470733a2f2f696d6775722e636f6d2f77764d46756d67.MP4)
 
 ## Overview
 
