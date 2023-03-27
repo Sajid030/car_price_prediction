@@ -18,7 +18,10 @@
 ## Demo
 Link:
 
-![AaFlskG - Imgur](https://user-images.githubusercontent.com/126476034/227992319-e2526aa7-846b-4999-a2ed-f5fbca0fba4c.gif)
+![AaFlskG - Imgur(3x)](https://user-images.githubusercontent.com/126476034/227992319-e2526aa7-846b-4999-a2ed-f5fbca0fba4c.gif)
+
+![HhmEvKA - Imgur](https://user-images.githubusercontent.com/126476034/227994698-76012b93-9fc9-477f-9aaa-d0b23abb4871.gif)
+
 
 ## Overview
 
