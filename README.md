@@ -21,7 +21,7 @@
 ## Demo
 Link:
 
-![image](https://imgur.com/t6EekIl)https://i.imgur.com/aYag1oG.mp4
+![image](https://camo.githubusercontent.com/47328db8600bb9822cec8f33b53702d52fec47fcec08617840cb0523e6420f85/68747470733a2f2f696d6775722e636f6d2f743645656b496c)
 ![image](https://user-images.githubusercontent.com/126476034/226076070-286d9121-c3cf-4fab-b5fa-587b0613b6f0.png)
 ![image](https://user-images.githubusercontent.com/126476034/226075998-d89e7197-38f7-4f3c-8e49-6db5d94bc1d9.png)
 
