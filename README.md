@@ -19,7 +19,9 @@
 Link:
 
 <!-- https://user-images.githubusercontent.com/126476034/227976477-9adf48a2-9bdd-4054-8f23-1d14dfeb5adc.mp4 -->
-![vid](https://imgur.com/zBCa20P.gif)
+<!-- ![vid](https://imgur.com/zBCa20P.gif) -->
+![zBCa20P - Imgur](https://user-images.githubusercontent.com/126476034/227981842-77e1141b-1096-44f5-ae39-009ec866311b.gif)
+
 
 ## Overview
 
