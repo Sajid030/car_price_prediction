@@ -21,9 +21,9 @@
 ## Demo
 Link:
 
-![video](https://imgur.com/zBCa20P.gif)
+
 ![video](https://i.imgur.com/zBCa20P.gif)
-![video](https://camo.githubusercontent.com/53dcd7557cf69674404d19f6db38f6dae77479a27de745cd3dbde3e305b07b80/68747470733a2f2f696d6775722e636f6d2f77764d46756d67.MP4)
+![video](https://i.imgur.com/zBCa20P)
 
 ## Overview
 
