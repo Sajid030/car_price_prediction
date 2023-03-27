@@ -21,9 +21,9 @@
 ## Demo
 Link:
 
-![image](https://camo.githubusercontent.com/47328db8600bb9822cec8f33b53702d52fec47fcec08617840cb0523e6420f85/68747470733a2f2f696d6775722e636f6d2f743645656b496c)
-![image](https://user-images.githubusercontent.com/126476034/226076070-286d9121-c3cf-4fab-b5fa-587b0613b6f0.png)
-![GIF](readme_resources/diabetes-predictor-web-app.gif)
+![video](https://i.imgur.com/lXTtEBm.mp4)
+
+![video](https://camo.githubusercontent.com/f0d6d922fd37e0a1247e6deaced1f35e8c32629330cff0c8c655808ab5623090/68747470733a2f2f692e696d6775722e636f6d2f6c58547445426d2e6d7034)
 
 ## Overview
 
