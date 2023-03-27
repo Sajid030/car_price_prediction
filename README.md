@@ -15,18 +15,16 @@
  - [Future scope of project](#future-scope)
 
 
-
-
-
-
-
-
-
 ## Demo
 Link:
 
 ![video](https://user-images.githubusercontent.com/126476034/227976477-9adf48a2-9bdd-4054-8f23-1d14dfeb5adc.gif)
-https://user-images.githubusercontent.com/126476034/227976477-9adf48a2-9bdd-4054-8f23-1d14dfeb5adc.mp4
+<!-- https://user-images.githubusercontent.com/126476034/227976477-9adf48a2-9bdd-4054-8f23-1d14dfeb5adc.mp4 -->
+
+
+![](https://user-images.githubusercontent.com/126476034/227978160-139c085b-6ed4-4df2-8764-035b00c39776.mp4)
+
+
 ![video](https://i.imgur.com/zBCa20P.gif)
 
 ## Overview
