@@ -23,7 +23,6 @@ Link:
 
 
 ![video](https://i.imgur.com/zBCa20P.gif)
-![video](https://i.imgur.com/zBCa20P)
 
 ## Overview
 
