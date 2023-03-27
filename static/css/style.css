@@ -62,6 +62,7 @@ body{
 }
 .form-input_heading{
     font-family: 'Pacifico', cursive;
+	font-size: 20px;
 }
 .form-input {
 	text-align: center;
@@ -83,4 +84,31 @@ body{
 .predict-button:hover{
     color: #4d089a;
     border: 2px solid #4d089a;
+}
+/* Footer */
+.footer{
+	position: relative;
+	background: linear-gradient(45deg, #443B96, #F60B68, #F4483A, #ffcf0e, #3bd2f0);
+	background-size: 500% 500%;
+	animation: change-gradient 10s ease-in-out infinite;
+}
+.contact{
+	padding-top: 20px;
+}
+.footer-description{
+	color: #ffffff;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+/* Result */
+.results{
+    padding: 30px ;
+}
+
+.danger{
+    color: #ff0000;
+}
+
+.safe{
+    color: green;
 }
