@@ -41,7 +41,6 @@ flake8==6.0.0
 Flask==2.2.3
 fonttools==4.39.0
 fqdn==1.5.1
-gunicorn==20.1.0
 idna==3.4
 imagesize==1.4.1
 importlib-metadata==6.0.0
