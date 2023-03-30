@@ -19,7 +19,6 @@
 Link:
 
 ![GIF](resource/carprediction.gif)
-![AaFlskG - Imgur(3x)](https://user-images.githubusercontent.com/126476034/227992319-e2526aa7-846b-4999-a2ed-f5fbca0fba4c.gif)
 
 ## Overview
 
