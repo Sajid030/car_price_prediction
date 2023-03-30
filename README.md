@@ -13,7 +13,7 @@
  - [Directory Tree](#directory-tree)
  - [Bug / Feature Request](#bug--feature-request)
  - [Future scope of project](#future-scope)
-
+ - [Credits](#credits)
 
 ## Demo
 Link:
@@ -54,8 +54,8 @@ pip install -r requirements.txt
 ├── car details v4.csv
 ├── requirements.txt
 ├── test.pkl
-
 ```
+
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Sajid030/car_price_prediction/issues) here by including your search query and the expected result
@@ -65,3 +65,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 - Use multiple Algorithms
 - Optimize Flask app.py
 - Front-End 
+
+## Credits
+- Dataset link : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+details+v4.csv
