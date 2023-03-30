@@ -39,17 +39,21 @@ pip install -r requirements.txt
 ## Directory Tree
 
 ```
+├── resource 
+│   ├── carpredict.gif
 ├── static 
 │   ├── css
 │         ├── style.css
 ├── template
 │   ├── index.html
+│   ├── result.html
+├── Prediction.ipynb
 ├── Procfile
 ├── README.md
 ├── app.py
-├── Prediction.ipynb
-├── test.pkl
+├── car details v4.csv
 ├── requirements.txt
+├── test.pkl
 
 ```
 ## Bug / Feature Request
