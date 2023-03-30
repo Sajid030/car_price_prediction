@@ -19,7 +19,6 @@
 Link:
 
 ![GIF](resource/carpredict.gif)
-![GIF](resource/carprediction.gif)
 
 ## Overview
 
