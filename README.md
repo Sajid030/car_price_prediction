@@ -9,7 +9,7 @@
  - [Overview](#overview)
  - [Motivation](#motivation)
  - [Installation](#installation)
- - [Deployement on Cpanel](#deployement-on-heroku)
+ - [Deployement on Cpanel](#deployement-on-cpanel)
  - [Directory Tree](#directory-tree)
  - [Bug / Feature Request](#bug--feature-request)
  - [Future scope of project](#future-scope)
