@@ -16,7 +16,7 @@
  - [Credits](#credits)
 
 ## Demo
-Link:
+Link: sajid.engineer/carprediction
 
 ![GIF](resource/carpredict.gif)
 
