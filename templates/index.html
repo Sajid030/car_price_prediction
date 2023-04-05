@@ -18,7 +18,7 @@
     </div>
     <div class="form_area">
         <form action="{{ url_for('predict')}}" method="post">
-            <p class="form-input_heading">Fuel Type: 
+            <p class="form-input_heading">Fuel Type: </p>
                 <select name="fuel" id="fuel_type" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Petrol">Petrol</option>
@@ -31,21 +31,21 @@
                     <option value="Petrol + CNG">Petrol + CNG</option>
                     <option value="Petrol + LPG">Petrol + LPG</option>
                 </select>
-            </p>
+            
             <p class="form-input_heading">
-                Year:
+                Year:</p>
                 <input type="number" name="Year" id="year" required="required" class="form-input">
-            </p>
+            
             <p class="form-input_heading">
-                Transmission:
+                Transmission:</p>
                 <select name="Transmission" id="transmission" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Manual">Manual</option>
                     <option value="Automatic">Automatic</option>
                 </select>
-            </p>
+            
             <p class="form-input_heading">
-                Owner:
+                Owner:</p>
                 <select name="Owner" id="owner" required="required" class="form-input">
                     <option value=""></option>
                     <option value="0">UnRegistered Car</option>
@@ -55,25 +55,26 @@
                     <option value="4">Fourth</option>
                     <option value="5">4 or more</option>
                 </select>
-            </p>
+            
             <p class="form-input_heading">
-                Seller Type:
+                Seller Type:</p>
                 <select name="Seller type" id="seller_type" required="required" class="form-input">
                     <option value=""></option>
                     <option value="Corporate">Corporate</option>
                     <option value="Individual">Individual</option>
                     <option value="Commercial Registration">Commercial Registration</option>
                 </select>
-            </p>
+            
             <p class="form-input_heading">
-                Engine: <input type="number" name="Engine" id="engine" required="required" class="form-input"  placeholder="eg: 1890(in cc)">
-            </p>
+                Engine:</p>
+                <input type="number" name="Engine" id="engine" required="required" class="form-input"  placeholder="eg: 1890(in cc)">
+            
             <p class="form-input_heading">
-                Max Power: <input type="number" name="Max Power" id="Max Power" required="required" class="form-input"  placeholder="eg: 90(in bhp)">
-            </p>
+                Max Power:</p> <input type="number" name="Max Power" id="Max Power" required="required" class="form-input"  placeholder="eg: 90(in bhp)">
+            
             <p class="form-input_heading">
-                Fuel Tank Capacity: <input type="number" name="Fuel Tank Capacity" id="fuel_tank_capacity" required="required" class="form-input"  placeholder="eg: 44">
-            </p>
+                Fuel Tank Capacity:</p> <input type="number" name="Fuel Tank Capacity" id="fuel_tank_capacity" required="required" class="form-input"  placeholder="eg: 44">
+            
             <p>
                 <input type="submit" value="Predict" class="predict-button">
             </p>
