@@ -1,10 +1,10 @@
 html{
 	height: 100%;
-	margin: 0px;
+	width: 100%;
 }
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 0px;
+    margin: 0;
     font-size: 18px;
     padding: 0;
     width: 100%;
@@ -60,15 +60,22 @@ body{
     display: flex;
     justify-content: center;
 }
+form{
+    width:70%;
+}
 .form-input_heading{
     font-family: 'Pacifico', cursive;
 	font-size: 20px;
+	width:100%;
 }
 .form-input {
 	text-align: center;
 	width: 100%;
 	height: 25px;
 	margin-bottom: 1px;
+	box-sizing: border-box;
+	border-radius: 7px;
+	border-width: thin;
 }
 .predict-button{
 	background: #f9f9f9;
