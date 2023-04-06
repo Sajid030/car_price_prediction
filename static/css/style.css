@@ -91,6 +91,7 @@ form{
 .predict-button:hover{
     color: #4d089a;
     border: 2px solid #4d089a;
+	cursor: pointer;
 }
 /* Footer */
 .footer{

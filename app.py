@@ -103,6 +103,8 @@ def predict():
         
         Owner=int(request.form['Owner'])
         
+        Kilometer=int(request.form['kilometer'])
+        
         Seller_Type=request.form['Seller type']
         if(Seller_Type=='Individual'):
             Seller_Type_Individual=1
@@ -120,7 +122,7 @@ def predict():
         
         Fuel_Tank_Capacity =float(request.form['Fuel Tank Capacity'])
         
-        prediction=model.predict([[Year,Owner,Engine,Max_Power,Fuel_Tank_Capacity,Fuel_Type_CNG__CNG,Fuel_Type_Diesel,Fuel_Type_Electric,Fuel_Type_Hybrid,Fuel_Type_LPG,Fuel_Type_Petrol,Fuel_Type_Petrol__CNG,Fuel_Type_Petrol__LPG
+        prediction=model.predict([[Year,Kilometer,Owner,Engine,Max_Power,Fuel_Tank_Capacity,Fuel_Type_CNG__CNG,Fuel_Type_Diesel,Fuel_Type_Electric,Fuel_Type_Hybrid,Fuel_Type_LPG,Fuel_Type_Petrol,Fuel_Type_Petrol__CNG,Fuel_Type_Petrol__LPG
                                    ,Transmission_Manual,Seller_Type_Corporate,Seller_Type_Individual]])
         output=round(prediction[0],2)
         return render_template('result.html', prediction=output)
