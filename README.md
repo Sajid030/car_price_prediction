@@ -1,6 +1,6 @@
 
 # Car Price Prediction
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.8.16-blueviolet.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Python 3.6](https://img.shields.io/badge/Flask-2.2.3-lightgrey.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/Python-3.9.16-blueviolet.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![flask](https://img.shields.io/badge/Flask-2.2.3-lightgrey.svg)
 
 
 ## Table of Contents
