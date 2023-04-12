@@ -17,7 +17,7 @@
 
 ## Demo
 - Link: https://sajid.engineer/carprediction
-
+Note: The website link provided above is currently not working, as the deployment has been stopped.
 - Please do ⭐ the repository, if it helped you in anyway.
 
 - A glimpse of the web app:
