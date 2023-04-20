@@ -52,6 +52,7 @@ Click [here](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-ho
 ├── template
 │   ├── index.html
 │   ├── result.html
+├── LICENSE.md
 ├── Prediction.ipynb
 ├── Procfile
 ├── README.md
